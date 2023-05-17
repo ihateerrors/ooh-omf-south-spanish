@@ -279,6 +279,7 @@ li {
 } */
 .container {
   padding-left: 25px;
+  padding-right: 25px;
   max-width: 1100px;
 }
 
@@ -485,4 +486,10 @@ i.fa.fa-check {
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* Fills the div and centers the image and text */
+figure {
+  width: 100%;
+  margin: 1em 0;
 }
