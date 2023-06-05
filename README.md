@@ -1,2 +1,2 @@
-# OMF South
-OMF South online engagement website
+# OMF South Spanish
+OMF South online engagement website (Spanish translation)
